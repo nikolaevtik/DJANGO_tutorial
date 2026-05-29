@@ -1,0 +1,10 @@
+{
+    "include": ["."],
+    "exclude": ["venv", "migrations"],
+    "stubPath": "typings",
+    "typeCheckingMode": "basic",
+    "reportMissingTypeStubs": false,
+    "reportGeneralTypeIssues": false,
+    "reportPrivateUsage": false,
+    "reportOptionalMemberAccess": false
+}

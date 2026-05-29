@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.rightClickBehavior": "default",
+    "workbench.startupEditor": "none",
+    "git.enableSmartCommit": true,
+    "python.analysis.typeCheckingMode": "off",
+    "python.languageServer": "Jedi",
+    "[python]": {
+        "editor.formatOnSave": true
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    }
+}
